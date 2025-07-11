@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+.one{
+    text-align: center;
+}
+
+.two{
+    text-align: center;
+}
+
+#num1,#num2{
+    background-color:gray ;
+}
+
+h4{
+    display: inline;
+    color: azure;
+}
+
+#result{
+    text-align: center;
+    display: inline;
+    color: azure;
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
